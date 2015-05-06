@@ -4,4 +4,4 @@
 #4) 11
 #5) src/events.js
 #6) ../input/src/models.js
-#7) ../../../all/src/b.js
+#7) ../../all/src/b.js
