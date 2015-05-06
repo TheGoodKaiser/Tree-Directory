@@ -1,0 +1,7 @@
+#1) tree-directory/components/input/src/error.js
+#2) 2
+#3) 6
+#4) 11
+#5) d.json —-> src —> models.js
+#6) all —-> src —-> b.js
+#7) events.js —-> src —-> input —-> all —-> src —-> b.js
