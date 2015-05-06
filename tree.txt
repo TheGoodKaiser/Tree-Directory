@@ -2,6 +2,6 @@
 #2) 2
 #3) 6
 #4) 11
-#5) d.json —-> src —> models.js
-#6) all —-> src —-> b.js
-#7) events.js —-> src —-> input —-> all —-> src —-> b.js
+#5) src/events.js
+#6) ../input/src/models.js
+#7) ../../../all/src/b.js
